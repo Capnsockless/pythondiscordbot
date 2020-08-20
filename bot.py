@@ -72,4 +72,4 @@ async def matthewsimpingouthere(ctx):
 async def whoisasimp(ctx):
     await ctx.channel.send("The simps are: <@!602546423124459560> and <@!671061763634102342>.")
 
-bot.run("NzA2ODIxNzA5OTQ4NTE4NDAx.Xq_1bQ.MODQ2Ur_IS1Gayr4l1GVTGxFTKc")
+bot.run(TOKEN)
